@@ -9,7 +9,8 @@ function fR(id) {
     // About object is returned if there is no 'id' parameter
     var about = {
         Version: "1.0.5",
-        Author: "Bernard Avenatti",
+        Author: "Bernard Avenatti (http://www.webineers.biz)",
+        License: "MIT (http://www.opensource.org/licenses/mit-license.php)"
         Created: "2015-01-02",
         Updated: "2015-01-18"
     };
