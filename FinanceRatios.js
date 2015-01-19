@@ -10,7 +10,7 @@ function fR(id) {
     var about = {
         Version: "1.0.5",
         Author: "Bernard Avenatti (http://www.webineers.biz)",
-        License: "MIT (http://www.opensource.org/licenses/mit-license.php)"
+        License: "MIT (http://www.opensource.org/licenses/mit-license.php)",
         Created: "2015-01-02",
         Updated: "2015-01-18"
     };
